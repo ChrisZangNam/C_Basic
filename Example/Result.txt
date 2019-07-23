@@ -1,0 +1,2 @@
+An has id 20175984 and grade is 8
+Hung has id 20161578 and grade is 8
